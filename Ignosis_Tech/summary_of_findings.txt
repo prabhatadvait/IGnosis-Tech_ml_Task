@@ -1,0 +1,29 @@
+Customer Segmentation:
+
+The analysis categorized customers based on their lifestyle (LIFESTAGE) and premium status (PREMIUM_CUSTOMER).
+The highest total spend (TOT_SALES) was observed in the "MIDAGE SINGLES/COUPLES" group, with a significant contribution from both Premium and Mainstream customers.
+This indicates that customers in their middle age, whether premium or mainstream, are highly engaged and generate considerable revenue.
+
+Top 3 Most Profitable Customers:
+
+The top three most profitable customers, based on total sales, are:
+LYLTY_CARD_NBR 226000: $1300
+LYLTY_CARD_NBR 230078: $138.60
+LYLTY_CARD_NBR 63197: $132.80
+This suggests that there are specific high-value customers driving the majority of revenue.
+
+Top 3 Bestselling Products:
+
+The three best-selling products in terms of total revenue are:
+Dorito Corn Chip Supreme 380g: $40,352
+Smiths Crinkle Chip Original Big Bag 380g: $36,367.6
+Smiths Crinkle Chips Salt & Vinegar 330g: $34,804.2
+These products are highly popular and contribute significantly to overall sales.
+Visualization Insights:
+
+The bar chart visualizes the total spend across different customer segments, showing that premium and mainstream customers from the MIDAGE SINGLES/COUPLES segment contribute the most to total sales.
+The second visualization highlights the top-selling products, which include the Dorito Corn Chip Supreme and Smiths Crinkle Chips, indicating strong demand for savory snacks.
+Hypothesis on Loyal Customers:
+Loyal customers in the "MIDAGE SINGLES/COUPLES" group, particularly those categorized as Premium, likely value quality and are willing to spend more on higher-end products.
+Additionally, products like Doritos and Smiths Crinkle Chips have become staples for this customer segment, likely due to brand loyalty and taste preference.
+This analysis helps the marketing department focus efforts on targeting premium customers from the "MIDAGE SINGLES/COUPLES" group while promoting high-demand products like Doritos Corn Chip Supreme and Smiths Crinkle Chips.
